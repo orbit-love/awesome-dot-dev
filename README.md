@@ -26,7 +26,7 @@
 ### Products and Services
 
 - [github.dev](https://github.dev/)
-- [jetbrains.dev](jetbrains.dev/)
+- [jetbrains.dev](https://jetbrains.dev/)
 - [workers.dev](https://workers.dev/)
 
 ## Contribution Guidelines
