@@ -6,28 +6,29 @@
 
 ### Developer Tools & Resources
 
-- [codecademy.dev](https://codecademy.dev/)
-- [crm.dev](crm.dev)
-- [glitch.dev](https://glitch.dev/)
-- [kubernetes.dev](https://kubernetes.dev/)
-- [nodejs.dev](https://nodejs.dev/)
-- [opensource.dev](https://opensource.dev/)
-- [stripe.dev](https://stripe.dev/)
-- [slack.dev](https://slack.dev/)
-- [web.dev](https://web.dev/)
-- [ycombinator.dev](https://ycombinator.dev/)
+- [crm.dev](crm.dev) - homepage for the Salesforce developer program
+- [glitch.dev](https://glitch.dev/) - the Glitch guide to developer relations
+- [nodejs.dev](https://nodejs.dev/) - Node.js guide content
+- [opensource.dev](https://opensource.dev/) - Google’s guide to open source
+- [stripe.dev](https://stripe.dev/) - Stripe demos, guides, and developer tools
+- [slack.dev](https://slack.dev/) - Slack tools, libraries, and SDKs
+- [web.dev](https://web.dev/) - educational resources about web development from Google
+- [ycombinator.dev](https://ycombinator.dev/) - Y Combinator Resources for Developers
+- [kapitan.dev](https://kapitan.dev/) - Generic templated configuration management for Kubernetes, Terraform and other things
+- [asylo.dev](https://asylo.dev/) - an open and flexible framework for enclave applications
 
 
 ### Communities
 
-- [women.dev](https://women.dev/)
+- [women.dev](https://women.dev/) - women Who Code is the largest and most active community for technical women in the world.
 
 
 ### Products and Services
 
-- [github.dev](https://github.dev/)
-- [jetbrains.dev](https://jetbrains.dev/)
-- [workers.dev](https://workers.dev/)
+- [github.dev](https://github.dev/) - personal websites built on your Github data
+- [jetbrains.dev](https://jetbrains.dev/) - developer tools
+- [workers.dev](https://workers.dev/) - build & deploy serverless apps on a global cloud network
+
 
 ## Contribution Guidelines
 
@@ -37,6 +38,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Additions should be added to the bottom of the relevant category.
+- Include a short description for each addition; this is required.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
