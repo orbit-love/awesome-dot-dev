@@ -29,7 +29,7 @@
 - [jetbrains.dev](jetbrains.dev/)
 - [workers.dev](https://workers.dev/)
 
-## Contributing Guidelines
+## Contribution Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
 
