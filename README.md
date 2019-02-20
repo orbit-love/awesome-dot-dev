@@ -1,6 +1,6 @@
 # awesome .dev sites [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of useful sites on the .dev TLD, inspired by [awesome.re](http://awesome.re).
+> A curated list of developer resources on the .dev TLD, inspired by [awesome.re](http://awesome.re).
 
 ## Sites
 
@@ -33,6 +33,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+- Make sure the site is related to developer resources in some way
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Additions should be added to the bottom of the relevant category.
