@@ -16,6 +16,10 @@
 - [ycombinator.dev](https://ycombinator.dev/) - Y Combinator Resources for Developers
 - [kapitan.dev](https://kapitan.dev/) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [asylo.dev](https://asylo.dev/) - an open and flexible framework for enclave applications
+- [lodash.dev](https://lodash.dev/) - a modern JavaScript utility library delivering modularity, performance & extras
+- [v8.dev](https://v8.dev/) - Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. 
+- [tfhub.dev](https://tfhub.dev/) - TensorFlow hub
+- [pptr.dev](https://pptr.dev/) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
 
 
 ### Communities
@@ -28,6 +32,8 @@
 - [github.dev](https://github.dev/) - personal websites built on your Github data
 - [jetbrains.dev](https://jetbrains.dev/) - developer tools
 - [workers.dev](https://workers.dev/) - build & deploy serverless apps on a global cloud network
+- [grow.dev](https://grow.dev/) - a declarative, file-based microsite generator
+- [agones.dev](https://agones.dev/) - host, run and scale dedicated game servers on Kubernetes
 
 
 ## Contribution Guidelines
