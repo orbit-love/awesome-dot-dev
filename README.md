@@ -8,6 +8,8 @@
 
 - [stripe.dev](https://stripe.dev/)
 - [slack.dev](https://slack.dev/)
+- [web.dev](https://web.dev/)
+
 
 ### Products and Services
 
