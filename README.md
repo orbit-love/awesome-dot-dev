@@ -6,14 +6,25 @@
 
 ### Developer Tools & Resources
 
+- [codecademy.dev](https://codecademy.dev/)
+- [crm.dev](crm.dev)
 - [glitch.dev](https://glitch.dev/)
+- [kubernetes.dev](https://kubernetes.dev/)
 - [nodejs.dev](https://nodejs.dev/)
+- [opensource.dev](https://opensource.dev/)
 - [stripe.dev](https://stripe.dev/)
 - [slack.dev](https://slack.dev/)
 - [web.dev](https://web.dev/)
 - [ycombinator.dev](https://ycombinator.dev/)
 
 
+### Communities
+
+- [women.dev](https://women.dev/)
+
+
 ### Products and Services
 
+- [github.dev](https://github.dev/)
+- [jetbrains.dev](jetbrains.dev/)
 - [workers.dev](https://workers.dev/)
