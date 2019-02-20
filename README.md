@@ -6,6 +6,8 @@
 
 ### Developer Tools & Resources
 
+- [glitch.dev](https://glitch.dev/)
+- [nodejs.dev](https://nodejs.dev/)
 - [stripe.dev](https://stripe.dev/)
 - [slack.dev](https://slack.dev/)
 - [web.dev](https://web.dev/)
