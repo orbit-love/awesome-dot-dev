@@ -35,6 +35,9 @@
 - [grow.dev](https://grow.dev/) - a declarative, file-based microsite generator
 - [agones.dev](https://agones.dev/) - host, run and scale dedicated game servers on Kubernetes
 
+### Blogs
+
+- [jess.dev](https://jess.dev/) - Jess Frazelle's blog
 
 ## Contribution Guidelines
 
