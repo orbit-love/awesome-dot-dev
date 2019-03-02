@@ -6,7 +6,7 @@
 
 ### Developer Tools & Resources
 
-- [crm.dev](crm.dev) - homepage for the Salesforce developer program
+- [crm.dev](https://crm.dev) - homepage for the Salesforce developer program
 - [glitch.dev](https://glitch.dev/) - the Glitch guide to developer relations
 - [nodejs.dev](https://nodejs.dev/) - Node.js guide content
 - [opensource.dev](https://opensource.dev/) - Google’s guide to open source
