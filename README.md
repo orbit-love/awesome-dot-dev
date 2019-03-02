@@ -40,6 +40,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+- The .dev domain needs to host a site itself, not be a redirect to another resources
 - Make sure the site is related to developer resources in some way
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
