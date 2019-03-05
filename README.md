@@ -20,6 +20,7 @@
 - [v8.dev](https://v8.dev/) - Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. 
 - [tfhub.dev](https://tfhub.dev/) - TensorFlow hub
 - [pptr.dev](https://pptr.dev/) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
+- [cube.dev](https://cube.dev/) - Cube.js, an open source serverless analytics framework
 
 
 ### Communities
