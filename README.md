@@ -4,7 +4,7 @@
 
 ## Sites
 
-### Developer Tools & Resources
+### Resources
 
 - [crm.dev](https://crm.dev) - homepage for the Salesforce developer program
 - [glitch.dev](https://glitch.dev/) - the Glitch guide to developer relations
@@ -22,23 +22,25 @@
 - [pptr.dev](https://pptr.dev/) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
 - [cube.dev](https://cube.dev/) - Cube.js, an open source serverless analytics framework
 
+### Blogs
+
+- [jess.dev](https://jess.dev/) - Jess Frazelle's blog
 
 ### Communities
 
 - [women.dev](https://women.dev/) - women Who Code is the largest and most active community for technical women in the world.
 
-
-### Products and Services
+### Open Source
 
 - [github.dev](https://github.dev/) - personal websites built on your Github data
-- [jetbrains.dev](https://jetbrains.dev/) - developer tools
-- [workers.dev](https://workers.dev/) - build & deploy serverless apps on a global cloud network
 - [grow.dev](https://grow.dev/) - a declarative, file-based microsite generator
 - [agones.dev](https://agones.dev/) - host, run and scale dedicated game servers on Kubernetes
 
-### Blogs
+### Products
 
-- [jess.dev](https://jess.dev/) - Jess Frazelle's blog
+- [jetbrains.dev](https://jetbrains.dev/) - developer tools
+- [workers.dev](https://workers.dev/) - build & deploy serverless apps on a global cloud network
+
 
 ## Contribution Guidelines
 
