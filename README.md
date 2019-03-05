@@ -15,12 +15,8 @@
 - [web.dev](https://web.dev/) - educational resources about web development from Google
 - [ycombinator.dev](https://ycombinator.dev/) - Y Combinator Resources for Developers
 - [kapitan.dev](https://kapitan.dev/) - Generic templated configuration management for Kubernetes, Terraform and other things
-- [asylo.dev](https://asylo.dev/) - an open and flexible framework for enclave applications
-- [lodash.dev](https://lodash.dev/) - a modern JavaScript utility library delivering modularity, performance & extras
-- [v8.dev](https://v8.dev/) - Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. 
 - [tfhub.dev](https://tfhub.dev/) - TensorFlow hub
 - [pptr.dev](https://pptr.dev/) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
-- [cube.dev](https://cube.dev/) - Cube.js, an open source serverless analytics framework
 
 ### Blogs
 
@@ -30,11 +26,16 @@
 
 - [women.dev](https://women.dev/) - women Who Code is the largest and most active community for technical women in the world.
 
-### Open Source
+### Open Source Projects
 
 - [github.dev](https://github.dev/) - personal websites built on your Github data
 - [grow.dev](https://grow.dev/) - a declarative, file-based microsite generator
 - [agones.dev](https://agones.dev/) - host, run and scale dedicated game servers on Kubernetes
+- [lodash.dev](https://lodash.dev/) - a modern JavaScript utility library delivering modularity, performance & extras
+- [asylo.dev](https://asylo.dev/) - an open and flexible framework for enclave applications
+- [v8.dev](https://v8.dev/) - Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. 
+- [cube.dev](https://cube.dev/) - Cube.js, an open source serverless analytics framework
+
 
 ### Products
 
