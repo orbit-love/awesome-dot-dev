@@ -17,6 +17,7 @@
 - [kapitan.dev](https://kapitan.dev/) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [tfhub.dev](https://tfhub.dev/) - TensorFlow hub
 - [pptr.dev](https://pptr.dev/) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
+- [awesomestacks.dev](https://awesomestacks.dev/) - an open source tool for discovering tech stacks for building different applications and features
 
 ### Blogs
 
