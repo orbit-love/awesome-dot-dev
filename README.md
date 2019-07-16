@@ -22,6 +22,7 @@
 ### Blogs
 
 - [jess.dev](https://jess.dev/) - Jess Frazelle's blog
+- [bgproject.dev](https://bgproject.dev/) - Benjamin Gervan's blog
 
 ### Communities
 
