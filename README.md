@@ -22,6 +22,7 @@
 ### Blogs
 
 - [jess.dev](https://jess.dev/) - Jess Frazelle's blog
+- [hashnode.dev](https://hashnode.dev) - Hassle-free Blogging Software for Developers!.
 
 ### Communities
 
